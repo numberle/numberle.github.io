@@ -1,0 +1,31 @@
+{
+  "short_name": "Numberle",
+  "name": "Numberle",
+  "icons": [
+    {
+      "src": "/numberle/images/numberle_logo_256x256.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "/numberle/images/numberle_logo_384x384.png",
+      "type": "image/png",
+      "sizes": "384x384"
+    },
+    {
+      "src": "/numberle/images/numberle_logo_192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/numberle/images/numberle_logo_512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "https://dduarte.github.io/numberle/",
+  "background_color": "#a464aa",
+  "display": "standalone",
+  "theme_color": "#a464aa",
+  "description": "A daily number game"
+}
